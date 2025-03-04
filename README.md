@@ -1,4 +1,4 @@
-#<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRjMXp1ZzlpYzJ1czI0NGQ1NGF1NHMzNmdsMnVqM3IxNGZkcDd0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fXgty15kxqT4JE1bLi/giphy.gif" width="30" height="30" /> About Me:
+# <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30" height="30" /> About Me:
 
 🎓 **Third Year Computer Science & Engineering Bilingual Modality Student** | 💡 **IT & Software Development**  
 
