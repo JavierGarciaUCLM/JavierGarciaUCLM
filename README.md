@@ -1,5 +1,11 @@
 # 💫 About Me:
-Im currently studing my third year of Computer Science and Engineering Bachelor, <br>bilingual modality and mention in Information Technology (IT).<br>am a third-year Computer Science student at the University of Castilla-La Mancha, <br>specializing in software development and interface design. Passionate about creating user-friendly<br> applications, I enjoy combining my technical knowledge with design principles to build engaging and <br>intuitive digital experiences.
+🎓 **Computer Science & Engineering Student** | 💡 **IT & Software Development**  
+
+I’m currently in my third year of the **Computer Science and Engineering Bachelor’s** at the **University of Castilla-La Mancha**, studying in a **bilingual modality** with a specialization in **Information Technology (IT)**.  
+
+💻 Passionate about **software development** and **interface design**, I enjoy blending technical knowledge with design principles to create **intuitive and user-friendly digital experiences**.  
+
+🚀 Always eager to **learn, innovate, and build** solutions that enhance usability and functionality.  
 
 
 ## 🌐 Socials:
