@@ -1,7 +1,6 @@
-# 💫 About Me:
-🎓 **Computer Science & Engineering Student** | 💡 **IT & Software Development**  
+# <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30" height="30" /> About Me:
 
-I’m currently in my third year of the **Computer Science and Engineering Bachelor’s** at the **University of Castilla-La Mancha**, studying in a **bilingual modality** with a specialization in **Information Technology (IT)**.  
+🎓 **Third Year Computer Science & Engineering Bilingual Modality Student** | 💡 **IT & Software Development**  
 
 💻 Passionate about **software development** and **interface design**, I enjoy blending technical knowledge with design principles to create **intuitive and user-friendly digital experiences**.  
 
