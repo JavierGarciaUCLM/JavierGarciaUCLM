@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](javier-garcia-tercero) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jaleo_ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garter.javier@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([javier-garcia-tercero](https://www.linkedin.com/in/javier-garcia-tercero/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jaleo_ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garter.javier@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) 
