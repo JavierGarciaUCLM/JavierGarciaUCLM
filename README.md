@@ -2,7 +2,7 @@
 
 🎓 **Third Year Computer Science & Engineering Bilingual Modality Student** | 💡 **IT & Software Development**  
 
-💻 Passionate about **software development** and **interface design**, I enjoy blending technical knowledge with design principles to create **intuitive and user-friendly digital experiences**.  
+💻 Passionate about **software development** and **interface design**. I enjoy blending technical knowledge with design principles to create **intuitive and user-friendly digital experiences**.  
 
 🚀 Always eager to **learn, innovate, and build** solutions that enhance usability and functionality.  
 
