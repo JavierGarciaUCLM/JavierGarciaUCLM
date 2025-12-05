@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30" height="30" /> About Me:
 
-🎓 **Third Year Computer Science & Engineering Bilingual Modality Student** | 💡 **IT & Software Development**  
+🎓 **Fourth Year Computer Science & Engineering Bilingual Modality Student** | 💡 **IT & Software Development**  
 
 💻 Passionate about **software development** and **interface design**. I enjoy blending technical knowledge with design principles to create **intuitive and user-friendly digital experiences**.  
 
